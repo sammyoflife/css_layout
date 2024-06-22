@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: white ;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    header a img [name = "gotohome] {
+        height:35px;
+        width:auto;
+        align-items: center;
+    }
+    #headerlogo{
+        height:45px;
+        width:auto;
+        align-items: center;
+        margin-top: 50px;
+        margin-bottom:50px;
+    }
+;
+}
+.leadsection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 8rem;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.forsection {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+    padding: 1.375em 1.25em 0;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 3.75rem auto 2.5rem;
+    color: #fff;
+    font-family: Work Sans, Arial, sans-serif;
+    max-width: 1015px;
+    padding: 0 20px;
+    position: relative;
+}
+
+.for1 {
+    background-color: #00ccb1;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 0;
+    justify-content: space-between;
+    height: 345px;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.forsection img {
+    width: 25px;
+    height: auto;
+}
+
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
